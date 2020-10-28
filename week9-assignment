@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-image:url("https://images.unsplash.com/photo-1537724841875-c0901308941f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+  background-repeat: no-repeat;
+　background-color: #000000;
+}
+h1 {font-family:Verdana;
+   color:#FFFFFF}
+</style>
+</head>
+<body>
+<h1><b><i>Electronic Music</b></i></h1>
+
+</body>
+</html>
